@@ -5,7 +5,7 @@ int main(){
 	int j=0;
 	
 	for(j=1; j<=10; j=j+1){
-		printf("Hola\n");
+		printf("Hola %d\n",j);
 	}
 	printf("\nFin del programa");
 }
